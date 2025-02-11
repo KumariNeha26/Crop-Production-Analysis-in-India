@@ -8,9 +8,9 @@ Develop predictive models for crop yield estimation
 Identify key factors impacting agricultural productivity
 
 Project Files
-Crop Production Analysis.ipynb – Jupyter Notebook for data analysis
-Crop Production data.csv – Dataset used for analysis
-Crop Production Analysis.pptx – Presentation summarizing key findings
+crop_production_analysis.ipynb – Jupyter Notebook for data analysis
+Crop_production_data.csv – Dataset used for analysis
+Crop_production_analysis.pptx – Presentation summarizing key findings
 README.md – Project documentation
 
 Technologies Used
